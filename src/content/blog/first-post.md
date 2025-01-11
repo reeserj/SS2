@@ -11,9 +11,8 @@ This is my first blog post. I'll be sharing my thoughts and experiences here.
 
 ## What to expect
 
-- Technical tutorials
-- Project updates
-- Coding tips
-- And more!
+Unbelievablely inconsistent content.
 
-Stay tuned for more content!
+Lots of floundering
+
+Maybe the occasional success.
